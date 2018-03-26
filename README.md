@@ -1,12 +1,12 @@
 # IMYAOPTableView
 
-Aspect Oriented Programming For TableView，无业务入侵，无逻辑入侵，外部察觉不到的 TableView AOP框架
+无业务入侵，无逻辑入侵，外部察觉不到的 TableView AOP框架
 
 按道理最低应该是支持 iOS 5.0的，但是已经没有iOS7之前的机子测试了。 所以不敢保证没问题。
 
-这个框架已经在`美柚`稳定使用半年多了，美柚总用户突破1亿，日活接近千万，代码的稳定性是可以放心的。有需求或者bug可以提issues，我会尽快回复。
+这个框架已经在 美柚 稳定 2016 年就开始使用，美柚总用户突破1亿，日活接近千万，代码的稳定性是可以放心的。有需求或者bug可以提issues，我会尽快回复。
 
-![](http://www.meiyou.com/g/images/logo1.png)
+![](http://sc.seeyouyima.com/shopGuide/data/59647e039f684_1920_576.png?imageView2/2/w/800/h/600)
 
 
 ## 要求
@@ -28,7 +28,7 @@ pod 'IMYAOPTableView'
 Look ./AOPTableViewDemo
 ```
 
-开始讲故事 《如何优雅的插入广告》
+《如何优雅的插入广告》
 ====================================
 
 当应用发展到一定阶段，一般都会在feeds流中插入广告，来进行广告的变现，这是每个应用都要进行的过程。 比如微信朋友圈，微博，QQ空间。。。 不列举了，一般有feeds流的都会有广告。
@@ -186,5 +186,3 @@ Look ./AOPTableViewDemo
 
 ![](https://raw.githubusercontent.com/li6185377/IMYAOPTableView/master/screenshot/aop_tableview_demo.gif)
 
-
-如果有兴趣可以看具体的源码：[传送门](https://github.com/li6185377/IMYAOPTableView.git)
